@@ -22,6 +22,8 @@ public class CursoGit {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
         Persona persona = new Persona();
+        
+        System.out.println(persona.toString());
     }
     
 }

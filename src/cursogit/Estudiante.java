@@ -9,6 +9,6 @@ package cursogit;
  *
  * @author Moii
  */
-public class Persona {
-      
+public class Estudiante {
+    
 }
