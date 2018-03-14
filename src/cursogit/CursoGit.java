@@ -22,6 +22,12 @@ public class CursoGit {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
         Persona persona = new Persona();
+        
+        persona.setNombres("Moisés");
+        persona.setApellidos("Flores");
+        persona.setEdad(20);
+        
+        persona.toString();
     }
     
 }
