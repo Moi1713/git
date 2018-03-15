@@ -21,17 +21,7 @@ public class CursoGit {
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner sc = new Scanner(System.in);
-        Persona persona = new Persona();
         
-<<<<<<< HEAD
-        persona.setNombres("Moisés");
-        persona.setApellidos("Flores");
-        persona.setEdad(20);
-        
-        persona.toString();
-=======
-        System.out.println(persona.toString());
->>>>>>> master
     }
     
 }
